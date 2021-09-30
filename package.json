@@ -1,0 +1,24 @@
+{
+  "name": "binja-nodejs",
+  "version": "0.1.0",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "tail": "^2.0.2"
+  },
+  "author": "Mozark <mozark24@gmail.com>",
+  "description": "A Node.js server for Binja comms",
+  "main": "fileupdate.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozark24/Binja-NodeJS.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mozark24/Binja-NodeJS/issues"
+  },
+  "homepage": "https://github.com/mozark24/Binja-NodeJS#readme"
+}
